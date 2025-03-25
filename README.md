@@ -27,7 +27,7 @@ It helps understand sales trends, customer retention, product performance, and g
 
 #🔹 Home Page - https://drive.google.com/file/d/1Q59dQFbJU2Wd3l-rLQeVmmxvAglrH8vv/view?usp=sharing
 
-# 🔹 Sales overview - https://drive.google.com/file/d/1hHRTjUSoFuLVW0SEkEx2oQ9v01CbWYIz/view?usp=drive_link
+#🔹 Sales overview - https://drive.google.com/file/d/1hHRTjUSoFuLVW0SEkEx2oQ9v01CbWYIz/view?usp=drive_link
 
 #🔹 Customer insights - https://drive.google.com/file/d/1ALAifOxRkfsqDXxNjpl9hM4OwJf0oJE5/view?usp=drive_link
 
@@ -36,32 +36,32 @@ It helps understand sales trends, customer retention, product performance, and g
 #🔹 Geographical Insights - https://drive.google.com/file/d/1k2RlAnLpA1QJXN36ekBf2cZTNjN50z4k/view?usp=drive_link
 
 # 📂 Project Structure
-#📂 E-Commerce-Sales-Dashboard/ (Main Project Folder)
-#├── 📂 Dataset/ (Raw & Cleaned Data)
-#│ ├── olist_orders_dataset.csv
-#│ ├── olist_customers_dataset.csv
-#│ ├── olist_products_dataset.csv
-#│ ├── cleaned_dataset.csv (Processed data)
-#│
-#├── 📂 PowerBI_Dashboard/ (Main Power BI files)
-#│ ├── PowerBI_Dashboard.pbix (Power BI Project)
-#│ ├── Dashboard_Export.pdf (PDF version)
-#│ ├── Dashboard_PPT.pptx (PowerPoint Version)
-#│ ├── 📂 Screenshots/ (Dashboard visuals)
-#│
-#├── 📂 Code/ (Python & SQL Scripts)
-#│ ├── data_cleaning.ipynb (Python for data cleaning & EDA)
-#│ ├── business_queries.sql (SQL queries for analysis)
-#│
-#├── 📂 Reports/ (Detailed Reports)
-#│ ├── E-Commerce_Insights_Report.pdf
-#│ ├── Business_Insights_Explained.pdf
-#│
-#├── 📂 Videos/ (Demo Recordings)
-#│ ├── Dashboard_Demo.mp4
-#│ ├── LinkedIn_Intro_Video.mp4
-#│
-#└── 📜 README.md (Project Documentation)
+📂 E-Commerce-Sales-Dashboard/ (Main Project Folder)
+├── 📂 Dataset/ (Raw & Cleaned Data)
+│ ├── olist_orders_dataset.csv
+│ ├── olist_customers_dataset.csv
+│ ├── olist_products_dataset.csv
+│ ├── cleaned_dataset.csv (Processed data)
+│
+├── 📂 PowerBI_Dashboard/ (Main Power BI files)
+│ ├── PowerBI_Dashboard.pbix (Power BI Project)
+│ ├── Dashboard_Export.pdf (PDF version)
+│ ├── Dashboard_PPT.pptx (PowerPoint Version)
+│ ├── 📂 Screenshots/ (Dashboard visuals)
+│
+├── 📂 Code/ (Python & SQL Scripts)
+│ ├── data_cleaning.ipynb (Python for data cleaning & EDA)
+│ ├── business_queries.sql (SQL queries for analysis)
+│
+├── 📂 Reports/ (Detailed Reports)
+│ ├── E-Commerce_Insights_Report.pdf
+│ ├── Business_Insights_Explained.pdf
+│
+├── 📂 Videos/ (Demo Recordings)
+│ ├── Dashboard_Demo.mp4
+│ ├── LinkedIn_Intro_Video.mp4
+│
+└── 📜 README.md (Project Documentation)
 
 # 📊 Data Analysis Breakdown
 # 🔹 Data Cleaning & Processing (Python + Pandas)
@@ -105,28 +105,33 @@ copy - git clone https://github.com/yourusername/E-Commerce-Sales-Dashboard.git
 
 # 📈 Business Insights & Recommendations
 📌 1. Sales are growing, but at a slower rate.
+
 🔹 Suggestion: Introduce targeted marketing campaigns during seasonal peaks.
 
 📌 2. Customer retention is low (High churn rate).
+
 🔹 Suggestion: Improve loyalty programs and discounts for repeat buyers.
 
 📌 3. Some product categories perform extremely well, while others lag.
+
 🔹 Suggestion: Focus on high-demand categories and reduce inventory costs for underperforming ones.
 
 📌 4. Certain regions have very low sales.
+
 🔹 Suggestion: Improve regional marketing efforts or optimize shipping costs.
 
 # 🚀 Future Improvements
+
 ✅ Implement predictive analytics for Customer Lifetime Value (CLV) prediction.
+
 ✅ Integrate Google AutoML for automated forecasting models.
+
 ✅ Deploy the Power BI dashboard online for real-time data updates.
 
 # 📌 Author & Contact
 
 👤 Prashant
-
 📧 prashntt.sood@gmail.com
-
 🔗 LinkedIn: www.linkedin.com/in/prashant-842790301
 
 # If you found this project useful, feel free to ⭐ Star the repo and connect with me! 🚀
