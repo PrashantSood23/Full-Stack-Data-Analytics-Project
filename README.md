@@ -35,40 +35,13 @@ It helps understand sales trends, customer retention, product performance, and g
 
 #🔹 Geographical Insights - https://drive.google.com/file/d/1k2RlAnLpA1QJXN36ekBf2cZTNjN50z4k/view?usp=drive_link
 
-# 📂 Project Structure
-📂 E-Commerce-Sales-Dashboard/ (Main Project Folder)
-├── 📂 Dataset/ (Raw & Cleaned Data)
-│ ├── olist_orders_dataset.csv
-│ ├── olist_customers_dataset.csv
-│ ├── olist_products_dataset.csv
-│ ├── cleaned_dataset.csv (Processed data)
-│
-├── 📂 PowerBI_Dashboard/ (Main Power BI files)
-│ ├── PowerBI_Dashboard.pbix (Power BI Project)
-│ ├── Dashboard_Export.pdf (PDF version)
-│ ├── Dashboard_PPT.pptx (PowerPoint Version)
-│ ├── 📂 Screenshots/ (Dashboard visuals)
-│
-├── 📂 Code/ (Python & SQL Scripts)
-│ ├── data_cleaning.ipynb (Python for data cleaning & EDA)
-│ ├── business_queries.sql (SQL queries for analysis)
-│
-├── 📂 Reports/ (Detailed Reports)
-│ ├── E-Commerce_Insights_Report.pdf
-│ ├── Business_Insights_Explained.pdf
-│
-├── 📂 Videos/ (Demo Recordings)
-│ ├── Dashboard_Demo.mp4
-│ ├── LinkedIn_Intro_Video.mp4
-│
-└── 📜 README.md (Project Documentation)
-
 # 📊 Data Analysis Breakdown
 # 🔹 Data Cleaning & Processing (Python + Pandas)
 * Missing values handling.
 * Duplicate removal.
 * Data formatting (dates, currency, categories).
 * Customer segmentation using RFM analysis.
+* Exploratory Data Analytics[Bivariate, Univariate, Multivariate]
 
 # 🔹 SQL Business Queries (PostgreSQL / MySQL / Snowflake)
 * Joins & relationships between orders, customers, and products.
