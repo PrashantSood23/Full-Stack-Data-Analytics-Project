@@ -2,8 +2,8 @@
 # 🛒 E-Commerce Sales & Customer Insights Dashboard
 🚀 A Power BI dashboard analyzing sales trends, customer behavior, and product insights in an e-commerce business.
 
-🔗 GitHub Repository: https://github.com/PrashantSood23/Full-Stack-Data-Analytics-Project
-🔗 LinkedIn Post: www.linkedin.com/in/prashant-842790301
+# 🔗 GitHub Repository: https://github.com/PrashantSood23/Full-Stack-Data-Analytics-Project
+# 🔗 LinkedIn Post: www.linkedin.com/in/prashant-842790301
 
 # 📌 Project Overview
 This project provides data-driven insights for an e-commerce business using Power BI, SQL, and Python.
