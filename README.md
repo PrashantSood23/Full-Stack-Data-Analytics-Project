@@ -11,16 +11,21 @@ It helps understand sales trends, customer retention, product performance, and g
 
 # 🔥 Key Features:
 ✅ Sales Analysis – Revenue trends, growth rates, and YoY comparison.
+
 ✅ Customer Insights – Churn rate, retention analysis, and buying behavior.
+
 ✅ Product Performance – Best-selling products, category trends, and discount effects.
+
 ✅ Geographical Insights – Regional sales, market penetration, and location-based trends.
+
 ✅ Data Processing & Cleaning – Python for data wrangling, missing value handling, and transformation.
+
 ✅ SQL Business Queries – Data extraction, joins, and trend analysis from multiple datasets.
 
  # 📊 Dashboard Preview
-# 🔹 Dashboard Overview - https://drive.google.com/file/d/1EfXUf2GXlJZvzlzPyTplla4nxlzNalfF/view?usp=sharing
+#🔹 Dashboard Overview - https://drive.google.com/file/d/1EfXUf2GXlJZvzlzPyTplla4nxlzNalfF/view?usp=sharing
 
-# 🔹 Home Page - https://drive.google.com/file/d/1Q59dQFbJU2Wd3l-rLQeVmmxvAglrH8vv/view?usp=sharing
+#🔹 Home Page - https://drive.google.com/file/d/1Q59dQFbJU2Wd3l-rLQeVmmxvAglrH8vv/view?usp=sharing
 
 # 🔹 Sales overview - https://drive.google.com/file/d/1hHRTjUSoFuLVW0SEkEx2oQ9v01CbWYIz/view?usp=drive_link
 
@@ -117,8 +122,11 @@ copy - git clone https://github.com/yourusername/E-Commerce-Sales-Dashboard.git
 ✅ Deploy the Power BI dashboard online for real-time data updates.
 
 # 📌 Author & Contact
+
 👤 Prashant
+
 📧 prashntt.sood@gmail.com
+
 🔗 LinkedIn: www.linkedin.com/in/prashant-842790301
 
 # If you found this project useful, feel free to ⭐ Star the repo and connect with me! 🚀
