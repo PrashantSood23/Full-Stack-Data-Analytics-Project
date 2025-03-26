@@ -23,7 +23,7 @@ It helps understand sales trends, customer retention, product performance, and g
 ✅ SQL Business Queries – Data extraction, joins, and trend analysis from multiple datasets.
 
  # 📊 Dashboard Preview
-#🔹 Dashboard Overview - https://drive.google.com/file/d/1EfXUf2GXlJZvzlzPyTplla4nxlzNalfF/view?usp=sharing
+#🔹 Dashboard Overview - https://drive.google.com/file/d/1ZfsDf4LU0SB_voxRRejGE7skoNuJQmnC/view?usp=sharing
 
 #🔹 Home Page - https://drive.google.com/file/d/1Q59dQFbJU2Wd3l-rLQeVmmxvAglrH8vv/view?usp=sharing
 
